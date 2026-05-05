@@ -1,1 +1,1 @@
-# ICIP2026-special-session-MIVP
+# ICDM2026-workshop-SENTIRE
